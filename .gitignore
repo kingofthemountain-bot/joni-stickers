@@ -5,3 +5,8 @@ prompts.json
 telegram-upload-guide.md
 create_all_stickers.py
 create_remaining.py
+
+# Node.js
+node_modules/
+package-lock.json
+STICKER_PACK_LINK.txt

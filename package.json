@@ -1,0 +1,24 @@
+{
+  "name": "joni-stickers",
+  "version": "1.0.0",
+  "description": "A collection of 25 adorable octopus stickers featuring Joni - a cute purple octopus character perfect for messaging apps, Discord, Telegram, and more!",
+  "main": "create-sticker-pack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingofthemountain-bot/joni-stickers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kingofthemountain-bot/joni-stickers/issues"
+  },
+  "homepage": "https://github.com/kingofthemountain-bot/joni-stickers#readme",
+  "dependencies": {
+    "form-data": "^4.0.5"
+  }
+}
