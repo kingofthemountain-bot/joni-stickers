@@ -1,0 +1,7 @@
+*-orig.png
+*.py
+*.md
+!README.md
+index.html
+prompts.json
+telegram-upload-guide.md
